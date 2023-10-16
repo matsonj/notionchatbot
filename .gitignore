@@ -1,5 +1,6 @@
 /.streamlit/
 /notion-content/
+/notion-content
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
